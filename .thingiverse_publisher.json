@@ -1,0 +1,19 @@
+{
+  "thing": {
+    "name": "i3 PTFE tube cutting measure",
+    "category": "3D Printer Accessories",
+    "tags": [
+      "3D_printing"
+    ],
+    "description": "# i3 PTFE tube cutting measure\n\nA small measure for cutting PTFE tubes for i3 extruders.\n\nWhy mess around wit calipers and rulers when you can have a simple measure to cut your PTFE tubes for your i3 extruder excatly at the right length?\nFully insert the PTFE tube into the and cut it at the end of the measure. Done.\n\nA slit on the side allows for easy removal of the tube after cutting.\n",
+    "instructions": "Print and enjoy",
+    "is_wip": true,
+    "license": "gpl3",
+    "id": 6478928
+  },
+  "files": [
+    "i3-ptfe-tube-cutting-measure.scad",
+    "i3-ptfe-tube-cutting-measure.stl"
+  ],
+  "images": []
+}
