@@ -7,15 +7,15 @@
       "ZigBee",
       "wall_mount"
     ],
-    "description": "# i3 PTFE tube cutting measure\n\nA small measure for cutting PTFE tubes for i3 extruders.\n\nWhy mess around wit calipers and rulers when you can have a simple measure to cut your PTFE tubes for your i3 extruder excatly at the right length?\nFully insert the PTFE tube into the and cut it at the end of the measure. Done.\n\nA slit on the side allows for easy removal of the tube after cutting.\n",
+    "description": "# Sonoff Zigbee Wall Mount\n\nSimple wall mount for Sonoff Zigbee 3.0 USB dongle plus dongles. Should fit both the P and E version. The front part has a cutout to allow the cooler-grill to be exposed. Could be taped to the wall with double sided sticky tape for example. Useful for when you want the dongle to be mounted higher up for a better signal.\n\nIt fits the dongle snuggly.",
     "instructions": "Print and enjoy",
     "is_wip": false,
     "license": "gpl3",
     "id": 6478928
   },
   "files": [
-    "i3-ptfe-tube-cutting-measure.scad",
-    "i3-ptfe-tube-cutting-measure.stl"
+    "sonoff_zigbee_wall_mount.scad",
+    "sonoff_zigbee_wall_mount.stl"
   ],
   "images": []
 }
