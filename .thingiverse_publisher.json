@@ -11,7 +11,7 @@
     "instructions": "Print and enjoy",
     "is_wip": false,
     "license": "gpl3",
-    "id": 6478928
+    "id": 6482766
   },
   "files": [
     "sonoff_zigbee_wall_mount.scad",
