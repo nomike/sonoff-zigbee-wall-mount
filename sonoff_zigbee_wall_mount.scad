@@ -17,7 +17,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 
 inner_width = 13;
-inner_length = 26;
+inner_length = 36;
 inner_height = 52;
 base_height = 3;
 wall_strength = 2;
