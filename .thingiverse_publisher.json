@@ -7,7 +7,7 @@
       "ZigBee",
       "wall_mount"
     ],
-    "description": "# Sonoff Zigbee Wall Mount\n\nSimple wall mount for Sonoff Zigbee 3.0 USB dongle plus dongles. Should fit both the P and E version. The front part has a cutout to allow the cooler-grill to be exposed. Could be taped to the wall with double sided sticky tape for example. Useful for when you want the dongle to be mounted higher up for a better signal.\n\nIt fits the dongle snuggly.",
+    "description": "# Sonoff Zigbee Wall Mount\n\nSimple wall mount for Sonoff Zigbee 3.0 USB dongle plus dongles. Should fit both the P and E version. The front part has a cutout to allow the cooler-grill to be exposed. Could be taped to the wall with double sided sticky tape for example. Useful for when you want the dongle to be mounted higher up for a better signal.\n\nIt fits the dongle snuggly.\n\n## Thingiverse\n\nhttps://www.thingiverse.com/thing:6482766\n\n## GitHub\n\nhttps://github.com/nomike/sonoff_zigbee_wall_mount",
     "instructions": "Print and enjoy",
     "is_wip": false,
     "license": "gpl3",
@@ -17,5 +17,7 @@
     "sonoff_zigbee_wall_mount.scad",
     "sonoff_zigbee_wall_mount.stl"
   ],
-  "images": []
+  "images": [
+    "photos/sonoff_zigbee_wall_mount.png"
+  ]
 }
