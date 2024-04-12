@@ -8,4 +8,4 @@ It fits the dongle snuggly.
 
 #### GitHub
 
-<https://github.com/nomike/sonoff_zigbee_wall_mount>
+<https://github.com/nomike/sonoff-zigbee-wall-mount>
